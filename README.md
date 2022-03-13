@@ -1,15 +1,15 @@
-STACK NAVIGATION IN DIFFERENT COMPONENTS
+## STACK NAVIGATION IN DIFFERENT COMPONENTS
 
-Installation​
+##Installation
 
-Yarn
+## Yarn
 
-> yarn add @react-navigation/native
-> expo install react-native-screens react-native-safe-area-context
-> yarn add @react-navigation / native - stack
+- yarn add @react-navigation/native <br>
+- expo install react-native-screens react-native-safe-area-context <br>
+- yarn add @react-navigation / native - stack<br>
 
-npm
+## npm
 
-> npm install @react-navigation/native
-> expo install react-native-screens react-native-safe-area-context
-> npm install @react-navigation/native-stack
+- npm install @react-navigation/native <br>
+- expo install react-native-screens react-native-safe-area-context <br>
+- npm install @react-navigation/native-stack <br>
