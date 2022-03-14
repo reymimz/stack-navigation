@@ -16,4 +16,4 @@
 
 ## Copyright and license
 
-Code and documentation copyright 2022 the authors.
+Code and documentation copyright 2022 the authors. Code released under the [React Navigation] (https://reactnavigation.org)
