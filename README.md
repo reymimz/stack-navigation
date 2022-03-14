@@ -1,6 +1,6 @@
 
-## STACK NAVIGATION IN DIFFERENT COMPONENTS
-## Quick Start : Installation
+## STACK NAVIGATION IN DIFFERENT CUSTOM COMPONENTS
+## Get Started : Installation
 
 ## yarn
 
@@ -16,4 +16,4 @@
 
 ## Copyright and license
 
-Code and documentation copyright 2022 the authors. Code released under the [React Navigation] (https://reactnavigation.org)
+Code and documentation copyright 2022 the authors. Code released under the https://reactnavigation.org
